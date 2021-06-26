@@ -2,7 +2,7 @@ final project - red color
 
 Main Purpose
 Analysis red color alarms in Israel from April to May (During Operation "Guardian of the Walls")
-*You will find addition information in the project presentation
+You will find addition information in the project presentation
 
 Acquisition
 Gathering information using API & Crawling
