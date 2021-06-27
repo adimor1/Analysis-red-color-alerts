@@ -1,7 +1,7 @@
 # Final project - red color
 
 ## Main Purpose
-Analysis red color alarms in Israel from April to May (During Operation "Guardian of the Walls").
+Analysis red color alerts in Israel from April to May (During Operation "Guardian of the Walls").
 
  you will find addition information in the project presentation
 
@@ -19,7 +19,7 @@ Exploring & improving the data
 
 ## Visualisation
 1. Explaining the data through graphs
-2. Buiild interactive map according to locationes and num of alarms
+2. Buiild interactive map according to locationes and num of alerts
 
 ## Machine Learning (logistic regression)
-Predict the num of alarms by distance from Gaze
+Predict the num of alerts by distance from Gaze
