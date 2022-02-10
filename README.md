@@ -23,3 +23,8 @@ Exploring & improving the data
 
 ## Machine Learning (logistic regression)
 Predict the num of alerts by distance from Gaze
+
+![alt text](https://github.com/adimor1/redColor/blob/main/image1.jpg)
+![alt text](https://github.com/adimor1/redColor/blob/main/image2.jpg)
+![alt text](https://github.com/adimor1/redColor/blob/main/image3.jpg)
+![alt text](https://github.com/adimor1/redColor/blob/main/image4.jpg)
