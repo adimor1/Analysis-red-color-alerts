@@ -1,4 +1,4 @@
-# Final project - red color
+# Red Color
 
 ## Main Purpose
 Analysis red color alerts in Israel from April to May (During Operation "Guardian of the Walls").
